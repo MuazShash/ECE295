@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=T1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=T1-2
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=rad-0.1
+Added Pin To Net: NetName=NetQ1_1 Pin=T1-1
+Added Pin To Net: NetName=VCC Pin=T1-2
+Added Room: Name=milestone1
