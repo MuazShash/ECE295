@@ -1,0 +1,7 @@
+Remove Pin=T2-B From Net=TX_EN
+Change Component Footprint: Designator=L1 Old Footprint=axial-0.9 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=axial-0.9 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.9 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=axial-0.9 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=axial-0.9 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=T1 Old Footprint=TORIND-T25 New Footprint=TRF_4
