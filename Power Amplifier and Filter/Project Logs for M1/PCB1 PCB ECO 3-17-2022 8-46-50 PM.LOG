@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=Q1 Old Footprint=E3 New Footprint=TO254P1067X483X3124-3P
+Change Component Designator: OldDesignator=Q1 NewDesignator=C
+Added Component: Designator=T2(TO92-EBC-OVAL)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N2222/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-18 Central Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2N2222/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2222/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX_EN Pin=T2-B
+Added Pin To Net: NetName=NetK1_A2 Pin=T2-C
+Added Pin To Net: NetName=GND Pin=T2-E
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetC_1
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetC_3
+Added Member To Class: ClassName=milestone1 Member=Component T2 2N2222
