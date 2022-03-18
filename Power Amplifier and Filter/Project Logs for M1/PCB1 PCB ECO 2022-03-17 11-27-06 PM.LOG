@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=rad-0.1
+Change Component Designator: OldDesignator=Q1 NewDesignator=C
+Added Member To Class: ClassName=milestone1 Member=Component C MOSFET-N
+Added Member To Class: ClassName=milestone1 Member=Component R3 Resistor 5
