@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=rad-0.1
+Added Member To Class: ClassName=milestone1 Member=Component C MOSFET-N
+Added Room: Name=milestone1

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=J18-1
+Removed Pin From Net: NetName=5V Pin=J18-2
+Removed Pin From Net: NetName=VCC Pin=J18-3
+Removed Pin From Net: NetName=PA_OUT Pin=J18-4
+Change Component Designator: OldDesignator=Q1 NewDesignator=C
+Added Pin To Net: NetName=PA_OUT Pin=J18-1
+Added Pin To Net: NetName=VCC Pin=J18-2
+Added Pin To Net: NetName=5V Pin=J18-3
+Added Pin To Net: NetName=GND Pin=J18-4
+Change Class Name : Old Net Name=milestone1 New Net Name=PA_F
+Added Member To Class: ClassName=PA_F Member=Component J18 Header 4
+Added Member To Class: ClassName=PA_F Member=Component R1 Resistor 3
+Added Member To Class: ClassName=PA_F Member=Component R6 Resistor 2

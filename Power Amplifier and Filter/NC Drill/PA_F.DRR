@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PA_F.PcbDoc   2022-03-20  1:35:19 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PA_F.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             8         PTH        2.91inch (73.80mm)
+T2      28mil (0.711mm)                                           Round             57        PTH        21.66inch (550.04mm)
+T3      30mil (0.762mm)                                           Round             4         PTH        1.41inch (35.83mm)
+T4      32mil (0.8mm)                                             Round             4         PTH        0.98inch (25.00mm)
+T5      32mil (0.813mm)                                           Round             6         PTH        1.40inch (35.58mm)
+T6      33mil (0.85mm)                                            Round             16        PTH        8.62inch (219.04mm)
+T7      35mil (0.9mm)                                             Round             8         PTH        3.69inch (93.69mm)
+T8      53mil (1.34mm)                                            Round             3         PTH        0.20inch (5.08mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              106
+
+Total Processing Time (hh:mm:ss) : 00:00:00

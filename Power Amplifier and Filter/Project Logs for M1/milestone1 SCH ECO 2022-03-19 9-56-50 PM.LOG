@@ -1,0 +1,6 @@
+Remove Pin=k1-A1 From Net=VCC
+Remove Pin=R1-2 From Net=TX_EN
+Change Component Footprint: Designator=R4 Old Footprint=rad-0.1 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R5 Old Footprint=rad-0.1 New Footprint=AXIAL-0.4
+Change Pin Designator/Name:  Old Designator=C-1 Old Name=D New Designator =G New Name=2
+Change Pin Designator/Name:  Old Designator=C-2 Old Name=G New Designator =D New Name=1

@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=rad-0.1
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=rad-0.1
+Change Component Designator: OldDesignator=Q1 NewDesignator=C
+Added Component: Designator=HS(HSINK_529802B02500G)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "HS350-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/aavid-thermal-division-of-boyd-corporation/529802B02500G/HS350-ND/1216357?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aavid, Thermal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "529802B02500G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Heat Sink Aavid, Thermal Division of Boyd Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/529802B02500G/Aavid%2C%20Thermal%20Division%20of%20Boyd%20Corporation/view-part/273010/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=milestone1 Member=Component C MOSFET-N
+Added Member To Class: ClassName=milestone1 Member=Component HS 529802B02500G
+Added Room: Name=milestone1
